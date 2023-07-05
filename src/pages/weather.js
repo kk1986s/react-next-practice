@@ -1,6 +1,6 @@
 import React from "react";
 import Head from "next/head";
-import Weather from "@/components/weather/weather";
+import Weather from "@/components/weather/Weather";
 
 const weather = () => {
   return (
